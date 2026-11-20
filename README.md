@@ -18,6 +18,11 @@ Git Hub Mobile: https://github.com/Wecoil/Global-Solution-2-Semestre-CitzenTech
 
 Nesta versão do protótipo, foram implementados Next.js, TypeScript, Tailwind CSS e Supabase para parte do acesso ao banco de dados.
 
+## Login do admin para aprovação de contas
+
+admin@plataforma.com
+Senha: adminfiap
+
 2. Instale as dependências e inicie o servidor:
    ```bash
    npm install
