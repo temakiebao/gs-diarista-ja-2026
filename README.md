@@ -9,6 +9,10 @@ O objetivo é desenvolvermos uma solução integrada entre um aplicativo mobile 
 
 ---
 
+## Links
+Youtube Pitch: https://youtu.be/MrXAOD7P4WU
+Vercel:
+
 ## O que Contém o Projeto
 
 Nesta versão do protótipo, foram implementados Next.js, TypeScript, Tailwind CSS e Supabase para parte do acesso ao banco de dados.
