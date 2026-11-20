@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-ink: #20342B;
+  --brand-green: #2F7651;
+  --brand-mint-soft: #F3F8F3;
+}
+
+body {
+  color: var(--brand-ink);
+  background-color: var(--brand-mint-soft);
+}
